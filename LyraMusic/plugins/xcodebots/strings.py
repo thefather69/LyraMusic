@@ -36,10 +36,10 @@ START_BUTTON_GROUP = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TheXCodeTeam"
+                text="📣 Updates Channel", url="https://t.me/TigerNetwork"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/XCodeSupport"
+                text="💬 Support Group", url="https://t.me/TigerNetwork"
             ),                       
         ],        
     ]
@@ -58,10 +58,10 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton(
-                text="📣 Updates Channel", url="https://t.me/TheXCodeTeam"
+                text="📣 Updates Channel", url="https://t.me/TigerNetwork"
             ),
             InlineKeyboardButton(
-                text="💬 Support Group", url="https://t.me/XCodeSupport"
+                text="💬 Support Group", url="https://t.me/TigerNetwork"
             ),                       
         ],        
     ]
