@@ -69,11 +69,11 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=_["suppot_button"],
-                url=f"https://t.me/XCodeSupport",
+                url=f"https://t.me/TigerNetworkchat",
             ),
             InlineKeyboardButton(
                 text=_["update_button"],
-                url=f"https://t.me/TheXCodeTeam",
+                url=f"https://t.me/TigerNetwork",
             ),
         ],
         [
@@ -110,7 +110,7 @@ def telegram_markup_timer(_, chat_id, played, dur):
         [
             InlineKeyboardButton(
                 text=_["update_button"],
-                url=f"https://t.me/TheXCodeTeam",
+                url=f"https://t.me/TigerNetwork",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
@@ -147,11 +147,11 @@ def stream_markup(_, videoid):
         [
             InlineKeyboardButton(
                 text=_["suppot_button"],
-                url=f"https://t.me/XCodeSupport",
+                url=f"https://t.me/TigerNetwork",
             ),
             InlineKeyboardButton(
                 text=_["update_button"],
-                url=f"https://t.me/TheXCodeTeam",
+                url=f"https://t.me/TigerNetwork",
             ),
         ],
         [
@@ -169,7 +169,7 @@ def telegram_markup(_):
         [
             InlineKeyboardButton(
                 text=_["update_button"],
-                url=f"https://t.me/TheXCodeTeam",
+                url=f"https://t.me/TigerNetwork",
             ),
             InlineKeyboardButton(
                 text=_["CLOSEMENU_BUTTON"], callback_data="close"
